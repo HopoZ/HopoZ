@@ -15,12 +15,6 @@
 
 - Gmail: phmath41@gmail.com
 
-
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-
 <img alt="" align="left" width="390px" src="https://gist.githubusercontent.com/HopoZ/7ed8091291868154e42868debc5e873f/raw/metrics.svg">
 
 <img alt="" align="right" width="400px" src="https://gist.githubusercontent.com/HopoZ/7ed8091291868154e42868debc5e873f/raw/metrics.additional.svg">
