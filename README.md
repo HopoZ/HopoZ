@@ -6,7 +6,7 @@
  <p align="center">God said, Let there be light: and there was light. </p>
 </p>
 
-<h3 align="center">📈Profile Views</h3>
+<!-- <h3 align="center">📈Profile Views</h3> -->
 <p align="center">
   <!-- <img width="500" src="https://profile-counter.glitch.me/HopoZ/count.svg"> -->
 </p>
