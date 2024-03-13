@@ -1,7 +1,7 @@
 
 
 <p align="center">
- <img width="100px" src="https://avatars.githubusercontent.com/u/98585204?v=4" align="center" alt="HopoZ" />
+ <!-- <img width="100px" src="https://avatars.githubusercontent.com/u/98585204?v=4" align="center" alt="HopoZ" /> -->
  <h2 align="center">HopoZ</h2>
  <p align="center">God said, Let there be light: and there was light. </p>
 </p>
