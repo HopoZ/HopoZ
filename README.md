@@ -7,6 +7,7 @@
 <!-- <h3 align="center">📈Profile Views</h3> -->
 <p align="center">
   <!-- <img width="500" src="https://profile-counter.glitch.me/HopoZ/count.svg"> -->
+ 计划将全部内容更新到blog上，在https://hopoz.github.io/ ,使笔记可视化
 </p>
 
 ## 📫 How to reach me?
