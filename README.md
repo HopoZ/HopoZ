@@ -19,7 +19,7 @@ width="800"  height="3">
 
 
 [![Mail Badge](https://img.shields.io/badge/-phmath41@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:phmath41@gmail.com)](mailto:phmath41@gmail.com)
-[![](https://img.shields.io/github/stars/HopoZ?color=fefb7b&logo=Undertale)](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=HopoZ&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![](https://img.shields.io/github/stars/connectai-e/dingtalk-openai?color=fefb7b)](https://github.com/connectai-e/dingtalk-openai)
+[![](https://img.shields.io/github/stars/HopoZ?color=fefb7b&logo=Undertale)](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=HopoZ&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 [![](https://img.shields.io/github/followers/HopoZ?color=27da6b&logo=Handshake)](https://github.com/HopoZ?tab=followers)
 
 
