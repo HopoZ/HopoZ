@@ -30,6 +30,7 @@ width="800"  height="3">
 
 
 ### 💻 Stats
+![](https://raw.githubusercontent.com/HopoZ/HopoZ/64728958740455f913ff0dd7ea7bacaba9b3b73f/github-contribution-grid-snake.svg)
 
 <details open>
 <summary>点击展开 ...</summary>
