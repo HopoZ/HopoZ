@@ -1,0 +1,116 @@
+{
+    "theme": {
+        "color": "#2f5785",
+        "tagColor": "#8bc34a"
+    },
+    "locales": {
+        "en-US": {
+            "titleNameMap": {
+                "educationList": "教育背景",
+                "workExpList": "工作经历",
+                "projectList": "项目经验",
+                "skillList": "个人技能",
+                "awardList": "更多信息",
+                "workList": "个人作品",
+                "aboutme": "个人评价"
+            },
+            "avatar": {
+                "src": "https://avatars.githubusercontent.com/u/98585204?s=400&u=3850a6b822f5b5cecd1facf43dae237d424e7b9c&v=4",
+                "hidden": true
+            },
+            "profile": {
+                "name": "朱棋",
+                "email": "phmath41@gmail.com",
+                "mobile": "18317301625",
+                "github": "https://github.com/HopoZ",
+                "zhihu": "",
+                "workExpYear": ""
+            },
+            "educationList": [
+                {
+                    "edu_time": [
+                        "2021.09.01",
+                        "2025.06.30"
+                    ],
+                    "school": "哈尔滨工业大学",
+                    "major": "软件工程",
+                    "academic_degree": "本科",
+                    "dataIndex": 0
+                }
+            ],
+            "awardList": [
+                {
+                    "award_info": "英语 CET6",
+                    "award_time": "2023.12",
+                    "dataIndex": 0
+                },
+                {
+                    "award_time": "2024.08",
+                    "award_info": "物联网设计大赛省二等奖"
+                }
+            ],
+            "workExpList": [
+                {
+                    "work_time": [
+                        "2023年7月1号",
+                        "2023年7月30号"
+                    ],
+                    "company_name": "北京神舟航天软件技术有限公司",
+                    "department_name": "实习生",
+                    "work_desc": "使用git在gitee上进行团队项目管理\n负责前端开发，与后端交互，测试反馈\n与团队一同进行code review,提出并设计了文件的上传和下载功能",
+                    "dataIndex": 0
+                }
+            ],
+            "skillList": [
+                {
+                    "skill_desc": "计算机基础：熟悉OSI/RM、TCP/IP等计算机网络模型，HTTP、UDP、TCP等网络协议，滑动窗口等流量控制协议，以太网帧等各种数据格式等；贯通操作系统整体框架，如进程与线程管理，同步与互斥机制实现，页面调度策略，文件管理方式，磁盘管理方式，缓存池与SPOOLing技术等；理解计算机组成原理整体结构，如cache一致性维护，数据存储与运算底层理解，流水线冒险处理方式，IO与总线理解，中断机制理解，阅读汇编代码等；熟悉线性表、链表、二叉树、图等，会实现共享栈、链栈，循环队列、并查集等，熟悉各种内部及外部排序算法等",
+                    "dataIndex": 0
+                },
+                {
+                    "skill_desc": "软件架构：熟悉Waterfall,Prototyping等构造过程；了解黑盒，白盒测试等；了解常见工厂，适配器等设计模式",
+                    "dataIndex": 2
+                },
+                {
+                    "skill_desc": "工具链：熟悉IDEA,VScode,Visual Studio,WebStorm,nvim等工具，能够熟练使用Git进行项目管理，能在Linux上开发代码"
+                }
+            ],
+            "projectList": [
+                {
+                    "project_time": "2023年7月",
+                    "project_name": "软件文档管理软件开发",
+                    "project_role": "组长",
+                    "project_desc": "AVIDM5.0实现了对文档全生命周期的过程管理，包括文档设计、资料分发和归档过程。\n该产品适用于需要管理大量文件的情况，具有强大的权限管理功能，只有具备对应权限的用户才能进行相应操作，同时具备高安全性，适用于各种风险条件下的文档管理情况。\n然而，该产品不适用于低安全要求的项目，因为其安全性较强，可能会导致额外的成本开销。",
+                    "project_content": "\n协调组织小组进行需求分析与系统设计，原型设计，数据库设计，后端开发,代码测试等流程；\n\n独立完成了前端工作，使用了Vue2,参考了element UI。",
+                    "dataIndex": 0
+                },
+                {
+                    "project_time": "2024年3月-2024年8月",
+                    "project_name": "嵌入式车联网系统",
+                    "project_role": "前端开发",
+                    "project_desc": "本项目内容包括身份验证模块、信息采集分析模块以及数据传输与可视化模块三大部分。本系统展示基于STM32的硬件，获取驾驶员相关信息，包括疲劳检测、心率检测、异常行为检测、酒精检测、车内温度检测以及位置信息采集。",
+                    "project_content": "负责网页开发，使用宝塔部署网站，微信小程序开发",
+                    "dataIndex": 1
+                }
+            ],
+            "workList": [
+                {
+                    "work_name": "车联网系统 https://safeguardofcar.cn",
+                    "work_desc": "本系统展示基于STM32的硬件，获取驾驶员相关信息",
+                    "visit_link": "https://safeguardofcar.cn/"
+                },
+                {
+                    "work_name": "简易编辑器 https://github.com/HopoZ/text-editor",
+                    "work_desc": "命令行实现的文本编辑器",
+                    "visit_link": "https://github.com/HopoZ/text-editor"
+                }
+            ],
+            "aboutme": {
+                "aboutme_desc": "本人为哈尔滨工业大学计算机学部软件学院的本科生，热爱开源圈子，喜欢在github上浏览各种技术相关文档及开源软件，对各种软件工程项目的构建极其感兴趣。\n\n编程语言：熟练掌握Java、Python、js等常用编程语言，有C/C++编程经验。\nWeb开发：具备Web开发基础知识，熟悉前端技术，包括浏览器渲染主线程的事件循环、浏览器渲染流程、初步了解vue响应式思想、有开发网站经验。\n数据库：熟悉操作SQL数据库，如MySQL，以及postgreSQL数据库。\n操作系统：熟练使用Linux操作系统Ubuntu，有Shell脚本编写经验，有集群管理经验。\n开源软件：熟悉Git版本控制工具，有开源项目贡献经验。\n"
+            },
+            "theme": {
+                "color": "#2f5785",
+                "tagColor": "#8bc34a"
+            }
+        }
+    }
+}
